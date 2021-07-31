@@ -1,6 +1,6 @@
 {
-  "name": "node_tutorial_8439",
-  "version": "1.0.0",
+  "name": "publish-tutorial-test-npm",
+  "version": "1.0.1",
   "description": "Totiral Project",
   "main": "index.js",
   "scripts": {
